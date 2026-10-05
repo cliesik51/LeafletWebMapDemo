@@ -1,6 +1,6 @@
 # This will be an example of Assignment 4
 ## Leaflet Web Map
-### Author: Carson Liesik
+### Author: Carson Liesi
 
 A map showing real-time weather radar and alerts from the National Weather Service.
 <https://cliesik51.github.io/LeafletWebMapDemo/Weather>
